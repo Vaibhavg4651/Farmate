@@ -1,0 +1,30 @@
+{
+    "machine1":{
+        "image": "https://5.imimg.com/data5/SELLER/Default/2021/8/KJ/UO/EI/68791365/super-straw-management-system-500x500.jpg",
+        "name" : "Super-straw management system",
+        "desc" : "An equipment attached with the Combined Harvester (a machine that is used to combine four separate harvesting operations- reaping, threshing, gathering and winnowing – to a single process) so it cut standing stubble in small pieces and spreads it on the soil surface."
+    },
+    "machine2":{
+        "image": "https://5.imimg.com/data5/SELLER/Default/2022/11/DE/MP/AZ/3219172/smart-seeder-500x500.jpg",
+        "name" : "Smart seeder",
+        "desc" : "Smart seeder: It manages paddy residue by incorporation and surface mulching hence retaining the benefits of both; the happy seeder (sows seeds directly in rows without any prior seedbed preparation) and the super seeder (extensively used for planting a wide variety of seeds)."
+    },
+
+    "machine3":{
+        "image": "https://ksagrotech.org/wp-content/uploads/2021/10/1000x1000_13.jpg",
+        "name" : "Paddy-straw chopper",
+        "desc" : "It chops the paddy stalks into small pieces which are spread over the field which later mixes into the soil of the field it becomes organic fertilizer which is very useful for soil."
+    },
+    
+    "machine4":{
+        "image": "https://3.imimg.com/data3/QI/LM/MY-7704388/3-furrow-reversible-plow-500x500.jpg",
+        "name" : "Reversible plough",
+        "desc" : "It is used for initial soil preparation for sowing seed or planting. Generally used for deep tillage of land, to help turn over the upper layer of the soil, bringing fresh nutrients to the surface, while buying weeds and remains of previous crop."
+    },
+
+    "machine5":{
+        "image": "https://www.deere.com/assets/images/region-4/products/hay-and-forage/hay-and-forage-baling-equipment/round-baler-selector-r4a021031.jpg",
+        "name" : "Baler",
+        "desc" : "When used as a tractor attachment, a baler turns agricultural leftovers, such as hay and flax straws, into bales that can then be utilized for a variety of things, including haylage and animal feed."
+    }
+}

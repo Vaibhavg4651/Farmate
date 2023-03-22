@@ -1,0 +1,76 @@
+.help{
+    display: flex;
+    flex-direction: column;
+}
+
+.aid{
+    margin: 0.3rem;
+    background-color: beige;
+}
+
+.pollution{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    
+}
+.pollution::before {
+    content: "";
+    background-image: url("../../public/crop1.jpg");
+    background-size: cover;
+    background-position: center center;
+    opacity: 0.7; /* adjust this value between 0 and 1 to adjust the opacity */
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    z-index: -1;
+  }
+
+.pollute{
+    padding: 2rem;
+}
+
+.polute{
+    padding: 1rem;
+}
+
+.machinery{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 1rem;
+}
+
+.machines{
+        width: 13rem;
+        height: 25rem;
+        background-color: #fff;
+        box-shadow: 0px 4px 8px rgba(172, 169, 169, 0.15);
+        border-radius: 8px ;
+        border: 1px solid black;
+        padding: 10px;
+        margin: 10px;
+      
+}
+.machines:hover{
+    box-shadow: 0px 4px 8px rgba(65, 64, 64, 0.4)
+}
+
+.machines img{
+    width: 12rem;
+    height: 11rem;
+    margin-bottom: 20px;
+    background-blend-mode: lighten;
+
+}
+
+.machines p {
+    font-size: 16px;
+    width: auto;
+    height: auto;
+    /* line-height: 1; */
+    margin-bottom: 1rem;
+  }
